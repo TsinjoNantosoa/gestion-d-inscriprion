@@ -1,0 +1,6 @@
+id,nom_cours,description,date_debut,date_fin,capacite
+1,Introduction à la Programmation,Apprentissage des bases de la programmation informatique,2024-01-15,2024-05-15,30
+2,Mathématiques Discrètes,Cours sur les structures mathématiques discrètes,2024-02-01,2024-06-01,25
+3,Algorithmes et Structures de Données,Étude des algorithmes et structures de données,2024-03-01,2024-07-01,40
+4,Développement Web,Cours sur le développement de sites web dynamiques,2024-04-01,2024-08-01,35
+5,Base de Données,Introduction aux systèmes de gestion de bases de données,2024-05-01,2024-09-01,30
